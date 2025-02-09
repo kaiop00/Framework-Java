@@ -1,6 +1,6 @@
 # Framework Simples em Java
 
-Este projeto é um framework para gerenciar entidades genéricas, permitindo a realização de operações básicas de CRUD (Create, Read, Update, Delete). O framework utiliza princípios de POO e Generics para garantir a reutilização de código.
+Este projeto é um framework para gerenciar entidades genéricas, permitindo a realização de operações básicas de CRUD (Create, Read, Update, Delete).
 
 
 ## Componentes do Framework
